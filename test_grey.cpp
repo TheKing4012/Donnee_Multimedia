@@ -36,7 +36,7 @@ int main(int argc, char* argv[])
     for (int i=0; i < nH; i++)
         for (int j=0; j < nW; j++)
         {
-            if ( ImgIn[i*nW+j] < S) ImgOut[i*nW+j]=0; else ImgOut[i*nW+j]=255;
+            if ( ImgIn[i*nW+j] < S) ImgOut[i*nW+j]=255; else ImgOut[i*nW+j]=0;
         }
 
     ecrire_image_pgm(cNomImgEcrite, ImgOut,  nH, nW);

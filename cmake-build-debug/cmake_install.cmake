@@ -1,4 +1,4 @@
-# Install script for directory: /home/e20200003090/Bureau/Données Multimedia/TP1
+# Install script for directory: /home/e20200003090/Bureau/Données Multimedia/TP1/Donnee_Multimedia_TP1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/e20200003090/Bureau/Données Multimedia/TP1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/e20200003090/Bureau/Données Multimedia/TP1/Donnee_Multimedia_TP1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
