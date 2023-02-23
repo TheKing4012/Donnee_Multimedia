@@ -61,35 +61,41 @@ build CMakeFiles/TP1.dir/blur.cpp.o: CXX_COMPILER__TP1_Debug /home/e20200003090/
   OBJECT_DIR = CMakeFiles/TP1.dir
   OBJECT_FILE_DIR = CMakeFiles/TP1.dir
 
-build CMakeFiles/TP1.dir/test_couleur.cpp.o: CXX_COMPILER__TP1_Debug /home/e20200003090/Bureau/Données$ Multimedia/TP1/Donnee_Multimedia_TP1/test_couleur.cpp || cmake_object_order_depends_target_TP1
-  DEP_FILE = CMakeFiles/TP1.dir/test_couleur.cpp.o.d
+build CMakeFiles/TP1.dir/TP1/test_couleur.cpp.o: CXX_COMPILER__TP1_Debug /home/e20200003090/Bureau/Données$ Multimedia/TP1/Donnee_Multimedia_TP1/TP1/test_couleur.cpp || cmake_object_order_depends_target_TP1
+  DEP_FILE = CMakeFiles/TP1.dir/TP1/test_couleur.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/TP1.dir
-  OBJECT_FILE_DIR = CMakeFiles/TP1.dir
+  OBJECT_FILE_DIR = CMakeFiles/TP1.dir/TP1
 
-build CMakeFiles/TP1.dir/test_grey.cpp.o: CXX_COMPILER__TP1_Debug /home/e20200003090/Bureau/Données$ Multimedia/TP1/Donnee_Multimedia_TP1/test_grey.cpp || cmake_object_order_depends_target_TP1
-  DEP_FILE = CMakeFiles/TP1.dir/test_grey.cpp.o.d
+build CMakeFiles/TP1.dir/TP4/test_grey.cpp.o: CXX_COMPILER__TP1_Debug /home/e20200003090/Bureau/Données$ Multimedia/TP1/Donnee_Multimedia_TP1/TP4/test_grey.cpp || cmake_object_order_depends_target_TP1
+  DEP_FILE = CMakeFiles/TP1.dir/TP4/test_grey.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/TP1.dir
-  OBJECT_FILE_DIR = CMakeFiles/TP1.dir
+  OBJECT_FILE_DIR = CMakeFiles/TP1.dir/TP4
 
-build CMakeFiles/TP1.dir/seuil3parties.cpp.o: CXX_COMPILER__TP1_Debug /home/e20200003090/Bureau/Données$ Multimedia/TP1/Donnee_Multimedia_TP1/seuil3parties.cpp || cmake_object_order_depends_target_TP1
-  DEP_FILE = CMakeFiles/TP1.dir/seuil3parties.cpp.o.d
+build CMakeFiles/TP1.dir/TP1/seuil3parties.cpp.o: CXX_COMPILER__TP1_Debug /home/e20200003090/Bureau/Données$ Multimedia/TP1/Donnee_Multimedia_TP1/TP1/seuil3parties.cpp || cmake_object_order_depends_target_TP1
+  DEP_FILE = CMakeFiles/TP1.dir/TP1/seuil3parties.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/TP1.dir
-  OBJECT_FILE_DIR = CMakeFiles/TP1.dir
+  OBJECT_FILE_DIR = CMakeFiles/TP1.dir/TP1
 
-build CMakeFiles/TP1.dir/histo.cpp.o: CXX_COMPILER__TP1_Debug /home/e20200003090/Bureau/Données$ Multimedia/TP1/Donnee_Multimedia_TP1/histo.cpp || cmake_object_order_depends_target_TP1
-  DEP_FILE = CMakeFiles/TP1.dir/histo.cpp.o.d
+build CMakeFiles/TP1.dir/TP1/histo.cpp.o: CXX_COMPILER__TP1_Debug /home/e20200003090/Bureau/Données$ Multimedia/TP1/Donnee_Multimedia_TP1/TP1/histo.cpp || cmake_object_order_depends_target_TP1
+  DEP_FILE = CMakeFiles/TP1.dir/TP1/histo.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/TP1.dir
-  OBJECT_FILE_DIR = CMakeFiles/TP1.dir
+  OBJECT_FILE_DIR = CMakeFiles/TP1.dir/TP1
 
-build CMakeFiles/TP1.dir/seuilCouleur.cpp.o: CXX_COMPILER__TP1_Debug /home/e20200003090/Bureau/Données$ Multimedia/TP1/Donnee_Multimedia_TP1/seuilCouleur.cpp || cmake_object_order_depends_target_TP1
-  DEP_FILE = CMakeFiles/TP1.dir/seuilCouleur.cpp.o.d
+build CMakeFiles/TP1.dir/TP1/seuilCouleur.cpp.o: CXX_COMPILER__TP1_Debug /home/e20200003090/Bureau/Données$ Multimedia/TP1/Donnee_Multimedia_TP1/TP1/seuilCouleur.cpp || cmake_object_order_depends_target_TP1
+  DEP_FILE = CMakeFiles/TP1.dir/TP1/seuilCouleur.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/TP1.dir
-  OBJECT_FILE_DIR = CMakeFiles/TP1.dir
+  OBJECT_FILE_DIR = CMakeFiles/TP1.dir/TP1
+
+build CMakeFiles/TP1.dir/TP5/RGBtoY.c.o: C_COMPILER__TP1_Debug /home/e20200003090/Bureau/Données$ Multimedia/TP1/Donnee_Multimedia_TP1/TP5/RGBtoY.c || cmake_object_order_depends_target_TP1
+  DEP_FILE = CMakeFiles/TP1.dir/TP5/RGBtoY.c.o.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/TP1.dir
+  OBJECT_FILE_DIR = CMakeFiles/TP1.dir/TP5
 
 
 # =============================================================================
@@ -99,7 +105,7 @@ build CMakeFiles/TP1.dir/seuilCouleur.cpp.o: CXX_COMPILER__TP1_Debug /home/e2020
 #############################################
 # Link the executable TP1
 
-build TP1: CXX_EXECUTABLE_LINKER__TP1_Debug CMakeFiles/TP1.dir/main.cpp.o CMakeFiles/TP1.dir/blur.cpp.o CMakeFiles/TP1.dir/test_couleur.cpp.o CMakeFiles/TP1.dir/test_grey.cpp.o CMakeFiles/TP1.dir/seuil3parties.cpp.o CMakeFiles/TP1.dir/histo.cpp.o CMakeFiles/TP1.dir/seuilCouleur.cpp.o
+build TP1: CXX_EXECUTABLE_LINKER__TP1_Debug CMakeFiles/TP1.dir/main.cpp.o CMakeFiles/TP1.dir/blur.cpp.o CMakeFiles/TP1.dir/TP1/test_couleur.cpp.o CMakeFiles/TP1.dir/TP4/test_grey.cpp.o CMakeFiles/TP1.dir/TP1/seuil3parties.cpp.o CMakeFiles/TP1.dir/TP1/histo.cpp.o CMakeFiles/TP1.dir/TP1/seuilCouleur.cpp.o CMakeFiles/TP1.dir/TP5/RGBtoY.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/TP1.dir
   POST_BUILD = :

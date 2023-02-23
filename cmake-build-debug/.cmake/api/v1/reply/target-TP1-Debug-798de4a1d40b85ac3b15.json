@@ -57,6 +57,19 @@
 				5,
 				6
 			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -fdiagnostics-color=always"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				7
+			]
 		}
 	],
 	"id" : "TP1::@6890427a1f51a3e7e1df",
@@ -94,7 +107,8 @@
 				3,
 				4,
 				5,
-				6
+				6,
+				7
 			]
 		}
 	],
@@ -121,7 +135,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP1/test_grey.cpp",
+			"path" : "TP4/test_grey.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -140,6 +154,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "TP1/seuilCouleur.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "TP5/RGBtoY.c",
 			"sourceGroupIndex" : 0
 		}
 	],
